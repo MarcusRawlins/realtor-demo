@@ -1,0 +1,2 @@
+:HL["/realtor-demo/_next/static/chunks/d81c6202e8d6163a.css","style"]
+0:{"buildId":"h-I9WApHbUDi1IOS5qaPd","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
