@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[84610,["/realtor-demo/_next/static/chunks/e0bd16e7725f5966.js"],"default"]
+3:I[45104,["/realtor-demo/_next/static/chunks/e0bd16e7725f5966.js"],"default"]
+0:{"buildId":"h-I9WApHbUDi1IOS5qaPd","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
